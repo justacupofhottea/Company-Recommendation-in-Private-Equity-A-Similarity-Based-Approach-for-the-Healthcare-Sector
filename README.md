@@ -33,7 +33,7 @@ The system provides a **robust tool for private equity professionals** to effici
 ## Usage
 > ⚠️ Note: Due to confidentiality and company data restrictions, the dataset and full code cannot be publicly shared.
 
-If you find this project interesting or would like to discuss the methodology, feel free to **reach out to me** — I’m happy to walk through the concepts, architecture, and lessons learned.
+If you find this project interesting or would like to discuss the methodology, feel free to **reach out to me** — I’m happy to walk through the concepts, architecture, and lessons learned. aabrahamyan2000@gmail.com
 
 ---
 
